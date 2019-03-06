@@ -51,7 +51,8 @@
     "node": ">=8.9"
   },
   "dependencies": {
-    "sha.js": "^2.4.11"
+    "execa": "^1.0.0",
+    "meow": "^5.0.0"
   },
   "devDependencies": {
     "ava": "1.0.0-beta.7",
