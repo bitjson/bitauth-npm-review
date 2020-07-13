@@ -26,7 +26,7 @@
     "prettier": "^1.16.4",
     "sort-keys": "^2.0.0",
     "ssri": "^6.0.1",
-    "standard-version": "^5.0.1",
+    "standard-version": "^8.0.1",
     "tar-fs": "^2.0.0",
     "tslib": "^1",
     "tslint-config-prettier": "^1.18.0",
